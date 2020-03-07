@@ -4,4 +4,4 @@
 3.We are also using off grid solar panels to power this project so it is also power efficient.  
 4.Through Bluetooth module we will also control it with smartphone which is the application of IOT.  
   
-Implemented using: Arduino
+5.Implemented using: Arduino
